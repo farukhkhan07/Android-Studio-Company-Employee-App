@@ -8,6 +8,6 @@ The application is professionally designed as a prototype for a company employee
 ![alt text](https://github.com/farukhkhan07/Android-Studio-Company-Employee-App/blob/master/Screen%20Shot%202018-09-04%20at%2011.53.27.png)
 
 
-# Profile Under Development
+# Main Activity ScreenShot
 
-![alt text] (https://github.com/farukhkhan07/Android-Studio-Company-Employee-App/blob/master/Screen%20Shot%202018-09-04%20at%2011.53.27.png)
+![alt text](https://github.com/farukhkhan07/Android-Studio-Company-Employee-App/blob/master/Screen%20Shot%202018-09-04%20at%2011.53.27.png)
